@@ -1,100 +1,40 @@
-### Hi there 👋, I'm Pradeep
-#### I'm a Competitive Programmer.
-![I'm a Competitive Programmer .](https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
+# Pradeep Kumar Dasari
 
-I am a B.Tech graduate from Annamacharya Institute of Technology and Sciences, Rajampet in Computer Science Engineering. I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
+I'm a Java, .NET (C# / ASP.NET Core), and Linux developer with about 5.5 years of experience. I focus on backend and API work at IQVIA in Bengaluru, on healthcare systems.
 
-Skills: Python/Java/Go Lang/C/C++
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='125'>
-- 👨‍💻 I’m currently working as Associate Professional at DXC Technology
-- 👯 I’m looking to collaborate on Open Source Contributions. 
-- 💬 Ask me about Problem-solving and DSA. 
-- 😄 Pronouns: he /him.
-- ⚡ Fun fact: The moon has moonquakes.
-<br/>
+## Tech stack
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=dpradeep42&theme=dracula&hide_border=true&area=true)
-<br/>
+### Java
 
-## 📲 Connect with me on social media
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) ![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </h3>
-<p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/pradeep-kumar-dasari-472492124/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-  <a target="_blank" href="https://github.com/dpradeep42"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-  <a target="_blank" href="https://www.instagram.com/1ampradeep/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-  <a href="https://twitter.com/1ampradeep"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-</p>
+### .NET
 
-## 💻 Tools and languages I work with
-<div align="left">
-<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
-<img src="https://img.icons8.com/ios/48/000000/go.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-<img src="https://img.icons8.com/color/48/000000/sql.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-<img src="https://img.icons8.com/ios/48/000000/java-eclipse.png"/>
-<img src="https://img.icons8.com/nolan/48/pycharm.png"/>
-<img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-<img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
-<img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
-<img src="https://img.icons8.com/nolan/48/git.png"/>
-<img src="https://img.icons8.com/nolan/48/github.png"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
-</div>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=flat&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-<br/>
+### Linux
 
-## Some facts 😄:
- <table>
-    <tr>
-        <td>
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=86y0bvzigkgatv94sipip1q0u&count=1&width=500" align="center"/>
-        </td>
-        <td rowspan=2>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpradeep42&theme=dark" align="center"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=dpradeep42&count_private=true&theme=dark&show_icons=true" align="center"/></td>
-    </tr>
-</table>
-<br/>
+![Bash / shell scripting](https://img.shields.io/badge/Bash%20%2F%20shell%20scripting-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Linux administration](https://img.shields.io/badge/Linux%20administration-FCC624?style=flat&logo=linux&logoColor=black) ![systemd](https://img.shields.io/badge/systemd-333333?style=flat) ![SSH](https://img.shields.io/badge/SSH-333333?style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-" to try enabling it again.
-[![trophy](https://github-profile-trophy.vercel.app/?username=dpradeep42)](https://github.com/ryo-ma/github-profile-trophy) 
--->
+### Databases
 
-<img width="36%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/dpradeep42)
+### Tooling
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![MCP servers](https://img.shields.io/badge/MCP%20servers-111111?style=flat) ![AI-assisted engineering](https://img.shields.io/badge/AI--assisted%20engineering-111111?style=flat)
 
-<h2 align="center">My Contribution Streak !! :fire:</h2> 
+## Featured projects
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=dpradeep42&theme=dracula" alt="GitHub Streak" />
-</p>
+Java, .NET and Linux projects coming soon.
 
-<table>
-  <tr>
-    <td><h3>You are Visitor No.: </h3></td>
-    <td><img src="https://komarev.com/ghpvc/?username=dpradeep42&style=flat&color=blue" alt="vistor count" height="45" /></td>
-  </tr>
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ayushsoni1010/ayushsoni1010/main/dino.gif" width="50.5%" height="197" > 
- <pre>
-----------------------------------------
-<span># Byee Byee Have a nice day!!</span>
-----------------------------------------
-      \   ^__^
-       \  (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-             _||    _||
-</pre>
-</table>
+## GitHub stats
+
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=dpradeep42&show_icons=true&hide_border=true)
+
+## Links
+
+- [GitHub](https://github.com/dpradeep42)
+- [LinkedIn](https://www.linkedin.com/in/pradeep-kumar-dasari-472492124/)
+- [Instagram](https://www.instagram.com/1ampradeep/)
+- [X](https://twitter.com/1ampradeep)
